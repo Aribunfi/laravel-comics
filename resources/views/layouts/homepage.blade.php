@@ -3,3 +3,7 @@
 @section('title')
 Homepage
 @endsection
+
+@section('content')
+@dump($comics)
+@endsection

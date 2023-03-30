@@ -10,7 +10,9 @@
 <body>
     <h1>@yield('title')</h1>
     
-    @dump($comics)
+    <main>
+        @yield('content')
+    </main>
 
 
 </body>
