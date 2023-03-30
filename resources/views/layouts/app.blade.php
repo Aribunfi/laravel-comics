@@ -14,4 +14,6 @@
         @yield('main_paragraph')
     </p>
 </body>
+
+@include('partials._footer');
 </html>

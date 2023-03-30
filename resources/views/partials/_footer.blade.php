@@ -1,0 +1,4 @@
+<div class="card-footer text-muted">
+Footer 
+</div>
+</div>
