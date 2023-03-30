@@ -13,6 +13,8 @@
     
     @include('partials._navbar')
     
+    @include('partials._jumbotron')
+    
     <main>
         <h1>@yield('title')</h1>
         @yield('content')
