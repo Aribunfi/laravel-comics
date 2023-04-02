@@ -5,5 +5,5 @@ Homepage
 @endsection
 
 @section('content')
-@dump($comics)
+@dump($comics);
 @endsection
